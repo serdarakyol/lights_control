@@ -1,5 +1,5 @@
 # Light of Controls
-This repository's goal is control to lights via your own voice. You can create your own dataset, train and predict with this repository.
+This repository's goal is control to lights via your own voice. You can create your own dataset, train and predict with this repository. You can watch how it works on that [LINK](https://www.youtube.com/watch?v=VgyQ9GypmzA)
 # USAGE
 ```
 $ virtualenv env
